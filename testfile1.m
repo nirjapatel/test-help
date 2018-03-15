@@ -1,9 +1,10 @@
 % Fix the app issues for multiple entries
 % check line by line and add multiple issues at a time
 
-function c = addhere(a,b)
+function c = addmehere(a,b)
 % ad two values togather
 % seems incorrect syntax
+% Lets check help-cheacker comment
 % C = ADDME(A) adds A to itself.
 % C = ADDME(A,B) adds A and B togather
 %
