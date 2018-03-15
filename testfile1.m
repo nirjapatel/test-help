@@ -1,13 +1,13 @@
 % Fix the app issues for multiple entries
 % check line by line and add multiple issues at a time
 
-function c = addmehere(a,b)
+function c = addmethere(a,b)
+% check all comments
 % ad two values togather
 % seems incorrect syntax
-% Lets check help-cheacker comment
 % C = ADDME(A) adds A to itself.
 % C = ADDME(A,B) adds A and B togather
-%
+% name mission
 % see also SUM, PLUS.
 
 switch nargin
