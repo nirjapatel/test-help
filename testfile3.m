@@ -8,6 +8,28 @@ function c = addMe(a,b)
 %
 % See also SUM, PLUS
 
+function c = deleteMe(a,b)
+% DELETEME adding two values togather
+% C = ADDME(A) adds A to itself
+% C = ADDME(A,B) adds A and B togather
+%
+% See also SUM, PLUS
+
+function c = multiplyMe(a,b)
+% multiplyme adding two values togather
+% C = ADDME(A) adds A to itself
+% C = ADDME(A,B) adds A and B togather
+%
+% See also SUM, PLUS
+
+
+function c = divideMe(a,b)
+% no comments adding two values togather
+% C = ADDME(A) adds A to itself
+% C = ADDME(A,B) adds A and B togather
+%
+% See also SUM, PLUS
+
 switch nargin
     case 2
         c = a + b
