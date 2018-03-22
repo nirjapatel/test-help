@@ -1,11 +1,9 @@
-% @todo Check newly added file issue
-% @body Check newly added file issue
-
-% @todo Check how many can you add
-% @body Check for multiple entries
+% check file name
+% with name of func
 
 function c = addmethere(a,b)
 % addmethere adding two values togather
+% add comments
 % seems incorrect syntax
 % C = ADDME(A) adds A to itself.
 % C = ADDME(A,B) adds A and B togather
