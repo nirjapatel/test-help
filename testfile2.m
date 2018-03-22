@@ -1,17 +1,18 @@
 % check file name
 % with name of func
-% addmethere adding two values togather
+
+function c = addMe(a,b)
+% ADDME adding two values togather
+% add comments
+
+function c = deleteMe(a,b)
+% deleteme adding two values togather
 % add comments
 
 function c = addmethere(a,b)
-% addmethere adding two values togather
+% nohelp adding two values togather
 % add comments
-% addmethere adding two values togather
-% add comments
-% seems incorrect syntax
-% C = ADDME(A) adds A to itself.
-% C = ADDME(A,B) adds A and B togather
-% see also SUM, PLUS.
+
 
 switch nargin
     case 2
