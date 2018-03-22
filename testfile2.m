@@ -1,7 +1,11 @@
 % check file name
 % with name of func
+% addmethere adding two values togather
+% add comments
 
 function c = addmethere(a,b)
+% addmethere adding two values togather
+% add comments
 % addmethere adding two values togather
 % add comments
 % seems incorrect syntax
