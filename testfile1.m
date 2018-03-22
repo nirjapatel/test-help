@@ -1,14 +1,21 @@
 % check file name
 % with name of func
 
-function c = addmethere(a,b)
-% addmethere
-% addmethere
-% seems incorrect syntax
-% C = ADDME(A) adds A to itself.
-% C = ADDME(A,B) adds A and B togather
-% name mission
-% see also SUM, PLUS.
+function c = addMe(a,b)
+% addme there
+% all in lowercase
+
+function c = deletMe(a,b)
+% DELETEME here
+% all in uppercase
+
+function c = multiplyMe(a,b)
+% MULTIPLYME here
+% GOOD HELP
+
+function c = divideMe(a,b)
+% ABCD
+% no help available
 
 switch nargin
     case 2
