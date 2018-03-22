@@ -1,18 +1,12 @@
-% check file name
-% with name of func
+% @todo check file name
+% @body with name of func
 
 function c = addMe(a,b)
 % ADDME adding two values togather
-% add comments
-
-function c = deleteMe(a,b)
-% deleteme adding two values togather
-% add comments
-
-function c = addmethere(a,b)
-% nohelp adding two values togather
-% add comments
-
+% C = ADDME(A) adds A to itself
+% C = ADDME(A,B) adds A and B togather
+%
+% See also SUM, PLUS
 
 switch nargin
     case 2
