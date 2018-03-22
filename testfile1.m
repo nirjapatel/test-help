@@ -1,5 +1,5 @@
-% Fix the app issues for multiple entries
-% check line by line and add multiple issues at a time
+% @todo Fix the app issues for multiple entries
+% @body check line by line and add multiple issues at a time
 
 function c = addmethere(a,b)
 % check all comments
