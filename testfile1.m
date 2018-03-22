@@ -1,9 +1,9 @@
-% Fix the app issues for multiple entries
-% check line by line and add multiple issues at a time
+% check file name
+% with name of func
 
 function c = addmethere(a,b)
-% check all comments
-% ad two values togather
+% addmethere
+% addmethere
 % seems incorrect syntax
 % C = ADDME(A) adds A to itself.
 % C = ADDME(A,B) adds A and B togather
