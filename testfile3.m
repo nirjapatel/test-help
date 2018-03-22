@@ -1,30 +1,30 @@
 % @todo check file name
 % @body with name of func
 
-function c = addMe(a,b)
-% ADDME adding two values togather
+function c = addhere(a,b)
+% ADDHERE adding two values togather
 % C = ADDME(A) adds A to itself
 % C = ADDME(A,B) adds A and B togather
 %
 % See also SUM, PLUS
 
-function c = deleteMe(a,b)
-% DELETEME adding two values togather
+function c = removeHERE(a,b)
+% REMOVEHERE adding two values togather
 % C = ADDME(A) adds A to itself
 % C = ADDME(A,B) adds A and B togather
 %
 % See also SUM, PLUS
 
-function c = multiplyMe(a,b)
-% multiplyme adding two values togather
+function c = Multiply(a,b)
+% MULTIPLY adding two values togather
 % C = ADDME(A) adds A to itself
 % C = ADDME(A,B) adds A and B togather
 %
 % See also SUM, PLUS
 
 
-function c = divideMe(a,b)
-% no comments adding two values togather
+function c = divideMe(a,b,c)
+% no comments added two values togather
 % C = ADDME(A) adds A to itself
 % C = ADDME(A,B) adds A and B togather
 %
