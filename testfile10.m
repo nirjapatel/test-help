@@ -2,7 +2,7 @@
 % with name of func
 
 function c = divideMe(a,b)
-% divideMe
+% ABCD
 % no help available
 
 switch nargin
